@@ -7,7 +7,8 @@ public class MerGit {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Testar");
+		System.out.println("Testar igen");
+		//mer blaj
 
 	}
 
